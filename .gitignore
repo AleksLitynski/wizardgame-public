@@ -1,0 +1,13 @@
+cmake-build-*
+build
+.idea
+.vscode
+!vendor/glew-2.1.0/build
+vendor/glew-2.1.0/build/glew.pc
+.vs
+.cache
+vendor/glew-2.1.0/glew.pc
+.fleet
+.gradle
+
+out/
