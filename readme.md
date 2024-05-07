@@ -13,6 +13,7 @@ The prefix WG_ is short for Wizard Game. All dependencies are included directly 
 2. `scoop install cmake mingw ninja`
 
 *Note: use the mingw package, not the gcc package. The gcc package is 2 years out of date, and that version of gcc doesn't support c++20 features*
+
 *Note: scoop will add mingw exes to your path, but it seems to trickle out slowly. Possibly just reboot after installing deps*
 
 ### Building
