@@ -1,6 +1,6 @@
 # Wiard Game Engine
 
-This project was a learning exercise to build a game engine from 'scratch'. Scratch in this case being SDL2, C++, CMake, and openGL. It might become a game about a wizard some day, but for now, it's just a learning exercise in game engine internals.
+This project was a learning exercise to build a game engine from 'scratch'. Scratch in this case being SDL2, C++, CMake, and OpenGL. It might become a game about a wizard some day, but for now, it's just a learning exercise in game engine internals.
 
 This project includes a hand rolled entity component system, a rendering system, and a rudimentary physics system.
 
